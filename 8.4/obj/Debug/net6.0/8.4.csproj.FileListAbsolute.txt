@@ -1,0 +1,15 @@
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Основы языков программирования\C#\Homework8\8.4\bin\Debug\net6.0\8.4.exe
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Основы языков программирования\C#\Homework8\8.4\bin\Debug\net6.0\8.4.deps.json
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Основы языков программирования\C#\Homework8\8.4\bin\Debug\net6.0\8.4.runtimeconfig.json
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Основы языков программирования\C#\Homework8\8.4\bin\Debug\net6.0\8.4.dll
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Основы языков программирования\C#\Homework8\8.4\bin\Debug\net6.0\8.4.pdb
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Основы языков программирования\C#\Homework8\8.4\obj\Debug\net6.0\8.4.csproj.AssemblyReference.cache
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Основы языков программирования\C#\Homework8\8.4\obj\Debug\net6.0\8.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Основы языков программирования\C#\Homework8\8.4\obj\Debug\net6.0\8.4.AssemblyInfoInputs.cache
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Основы языков программирования\C#\Homework8\8.4\obj\Debug\net6.0\8.4.AssemblyInfo.cs
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Основы языков программирования\C#\Homework8\8.4\obj\Debug\net6.0\8.4.csproj.CoreCompileInputs.cache
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Основы языков программирования\C#\Homework8\8.4\obj\Debug\net6.0\8.4.dll
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Основы языков программирования\C#\Homework8\8.4\obj\Debug\net6.0\refint\8.4.dll
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Основы языков программирования\C#\Homework8\8.4\obj\Debug\net6.0\8.4.pdb
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Основы языков программирования\C#\Homework8\8.4\obj\Debug\net6.0\8.4.genruntimeconfig.cache
+C:\Users\julsa\OneDrive\Desktop\Аналитика\Основы языков программирования\C#\Homework8\8.4\obj\Debug\net6.0\ref\8.4.dll
